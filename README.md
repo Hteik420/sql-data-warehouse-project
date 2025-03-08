@@ -32,3 +32,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
+
+## 📝 License
+
+This project is licensed under the [MIT License](https://github.com/Hteik420/sql-data-warehouse-project/blob/main/LICENSE). You are free to use, modify and share this project with proper attribution. 
